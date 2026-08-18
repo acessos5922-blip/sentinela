@@ -1,0 +1,41 @@
+ion:column;gap:4px}.downloads strong{font-size:1.45rem}.payment span{font-size:.74rem}.mobile-cta{position:static}.footer-row{padding-bottom:0}}
+    @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}.cta{transition:none}.cta:hover{transform:none}}
+  
+    /* Página/âncora específica — Apostila Polícia Civil */
+    .pc-offer{background:#f7f5ef;padding:78px 0;border-top:1px solid var(--line);border-bottom:1px solid var(--line)}
+    .pc-shell{display:grid;grid-template-columns:.92fr 1.08fr;gap:38px;align-items:center;background:#fff;border:2px solid #c62828;padding:42px;box-shadow:0 24px 70px #221b0d12,0 0 0 4px #c6282812}
+    .pc-kicker{display:inline-block;color:#987510;font-size:.75rem;font-weight:800;letter-spacing:.16em;text-transform:uppercase;margin-bottom:10px}
+    .pc-title{font-size:clamp(2.2rem,4.6vw,4.5rem);line-height:.96;letter-spacing:-.055em;margin:0 0 16px;font-family:'Montserrat',Arial,sans-serif}
+    .pc-title span{color:#987510}
+    .pc-lead{color:#666;font-size:1.02rem;margin:0 0 22px;max-width:610px}
+    .pc-price-row{display:flex;align-items:end;gap:12px;margin:24px 0}
+    .pc-price-label{font-size:.75rem;text-transform:uppercase;letter-spacing:.14em;color:#777;font-weight:800;margin-bottom:8px}
+    .pc-price{font-family:'Montserrat',Arial,sans-serif;font-size:clamp(3rem,6vw,5.3rem);line-height:.9;letter-spacing:-.06em;color:#b40000;font-weight:900}
+    .pc-once{font-size:.86rem;color:#777;margin-bottom:7px}
+    .pc-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:10px}
+    .pc-item{border:1px solid #e7e1d5;background:#fbfaf6;padding:15px 16px;font-size:.9rem;line-height:1.35}
+    .pc-item b{display:block;color:#1a1a1a;margin-bottom:4px}
+    .pc-item:before{content:'✓';color:#987510;font-weight:900;margin-right:7px}
+    .pc-states{display:flex;flex-wrap:wrap;gap:8px;margin-top:18px}
+    .pc-state{border:1px solid #d9cfb4;background:#fff;padding:8px 11px;font-size:.76rem;font-weight:800;color:#5f543a}
+    .pc-how{margin-top:18px;border-top:1px solid #eee5d5;padding-top:18px;color:#666;font-size:.9rem}
+    .pc-how strong{color:#222}
+    .pc-ad-note{margin-top:18px;padding:14px 16px;border-left:3px solid var(--gold);background:#fff9e8;color:#5c523c;font-size:.88rem}
+    @media(max-width:800px){.pc-offer{padding:54px 0}.pc-shell{grid-template-columns:1fr;padding:24px 20px}.pc-grid{grid-template-columns:1fr}.pc-price-row{align-items:flex-start;flex-direction:column;gap:4px}}
+
+  
+    /* Aba de entrada — Polícia Civil */
+    .pc-entry-tab{background:#fff;border-bottom:1px solid #e6e0d3;padding:14px 0;box-shadow:0 10px 28px #221b0d0a}
+    .pc-entry-inner{display:flex;align-items:center;justify-content:space-between;gap:18px;border:2px solid #c62828;background:linear-gradient(135deg,#fff,#fbf7eb);padding:16px 18px;box-shadow:0 0 0 4px #c6282812}
+    .pc-entry-copy{display:flex;align-items:center;gap:14px;min-width:0}
+    .pc-entry-badge{display:grid;place-items:center;min-width:54px;height:54px;border:2px solid #c62828;color:#b71c1c;font-weight:900;font-size:.78rem;letter-spacing:.08em}
+    .pc-entry-text b{display:block;font-family:'Montserrat',Arial,sans-serif;font-size:1rem;letter-spacing:.02em;color:#171717}
+    .pc-entry-text span{display:block;margin-top:3px;color:#777;font-size:.82rem}
+    .pc-entry-action{display:flex;align-items:center;gap:14px;flex-shrink:0}
+    .pc-entry-price{font-family:'Montserrat',Arial,sans-serif;font-size:1.55rem;font-weight:900;color:#b40000;white-space:nowrap}
+    .pc-entry-link{display:inline-flex;align-items:center;justify-content:center;min-height:44px;padding:0 18px;background:#c9a227;color:#111;font-weight:900;font-size:.78rem;letter-spacing:.03em;white-space:nowrap}
+    .pc-entry-link:hover{background:#edcf64}
+    @media(max-width:800px){.pc-entry-inner{align-items:stretch;flex-direction:column}.pc-entry-action{justify-content:space-between}.pc-entry-link{flex:1}.pc-entry-price{font-size:1.35rem}.pc-entry-text span{font-size:.78rem}}
+
+  </style>
+</head>

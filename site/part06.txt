@@ -1,0 +1,43 @@
+ico</div>
+                <div class="pc-price">R$ 17,70</div>
+              </div>
+              <div class="pc-once">sem mensalidade</div>
+            </div>
+            <div class="pc-states" aria-label="Estados contemplados">
+              <span class="pc-state">RJ</span><span class="pc-state">BA</span><span class="pc-state">CE</span><span class="pc-state">PR</span><span class="pc-state">TO</span><span class="pc-state">MG</span>
+            </div>
+            <div class="pc-how"><strong>Como funciona:</strong> você confere o conteúdo, realiza o pagamento e recebe o acesso ao material digital para estudar pelo celular ou computador.</div>
+          </div>
+          <div>
+            <span class="pc-kicker">O que eu recebo?</span>
+            <div class="pc-grid">
+              <div class="pc-item"><b>Material em PDF</b>Arquivos digitais para leitura e estudo.</div>
+              <div class="pc-item"><b>Conteúdo organizado</b>Materiais separados para facilitar sua preparação.</div>
+              <div class="pc-item"><b>Polícia Civil por estado</b>Materiais disponíveis para RJ, BA, CE, PR, TO e MG.</div>
+              <div class="pc-item"><b>Acesso no celular ou computador</b>Estude no dispositivo que for mais prático para você.</div>
+              <div class="pc-item"><b>Download dos arquivos</b>Salve os PDFs e consulte seus materiais quando precisar.</div>
+              <div class="pc-item"><b>Pagamento único</b>Valor da oferta: R$ 17,70, sem mensalidade.</div>
+            </div>
+            <div class="pc-ad-note"><strong>Importante:</strong> esta página explica a oferta da Polícia Civil antes do checkout, para o candidato saber o que está comprando.</div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="proof-strip" aria-label="Características do acervo"><div class="wrap proof-grid"><div class="proof-item"><b>PDF</b>arquivos para baixar</div><div class="proof-item"><b>Offline</b>estude sem internet</div><div class="proof-item"><b>2026</b>editais atualizados</div><div class="proof-item"><b>Vitalício</b>pague uma vez</div></div></section>
+
+    <section class="section careers" id="acervo">
+      <div class="wrap"><div class="center"><span class="eyebrow">O que você terá acesso</span></div><h2 class="section-title">Materiais organizados por carreira</h2><p class="section-lead">Escolha a área do seu edital e encontre as apostilas correspondentes em PDF.</p>
+        <div class="career-grid">
+          <article class="career" data-number="01"><span class="tag">CARREIRA</span><h3>Militar</h3><p>Brigada Militar, Forças Armadas e seleções estaduais.</p></article>
+          <article class="career" data-number="02"><span class="tag">CARREIRA</span><h3>Policial</h3><p>Polícia Militar, Polícia Civil, Polícia Penal e PRF.</p></article>
+          <article class="career" data-number="03"><span class="tag">CARREIRA</span><h3>Fiscal e Jurídica</h3><p>Receita, tribunais, OAB e cargos jurídicos.</p></article>
+          <article class="career" data-number="04"><span class="tag">CARREIRA</span><h3>Bancária e Educação</h3><p>Banco do Brasil, Caixa e concursos para professores.</p></article>
+          <article class="career career-wide" data-number="05"><div><span class="tag">OUTRAS ÁREAS</span><h3>Mais editais no mesmo acervo</h3></div><div class="career-list"><span>Saúde</span><span>Administrativa</span><span>Tecnologia da Informação</span><span>Logística</span><span>Engenharia</span><span>ENEM</span></div></article>
+        </div>
+      </div>
+    </section>
+
+    <section class="section inside">
+      <div class="wrap inside-grid">
+        <div><span class="eyebrow">Por dentro</span><h2 class="section-title">Pastas separadas por concurso</h2><p class="section-lead">Arquivo em PDF, liberado para download — você pode salvar no celular ou computador e estudar offline.</p><div class="subjects"><div class="subject">Português</div><div class="subject">Raciocínio Lógico</div><div class="subject">Informática</div><div c

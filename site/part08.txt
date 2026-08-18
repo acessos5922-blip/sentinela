@@ -1,0 +1,9 @@
+pode solicitar o reembolso dentro do prazo legal de 7 dias após a compra.</p></details><details><summary>Quais formas de pagamento são aceitas?</summary><p>O checkout apresenta pagamento por Pix e cartão. As condições disponíveis aparecem antes da confirmação.</p></details></div></div></section>
+
+    <section class="section offer" id="oferta"><div class="wrap"><div class="offer-box"><span class="eyebrow">Pagamento único</span><h2>Receba o acervo completo</h2><ul><li>Mais de 20 mil apostilas em PDF</li><li>Mais de 500 concursos</li><li>Pastas organizadas por carreira</li><li>6 conteúdos bônus</li><li>Acesso vitalício</li><li>Garantia de 7 dias</li></ul><div class="old">de R$ 47,90</div><div class="price">R$ 17,99</div><div>pagamento único</div><div class="payment" aria-label="Formas de pagamento"><span><svg viewBox="0 0 24 24" aria-hidden="true"><path fill="#32bcad" d="m12 2 3.3 3.3-3.3 3.3-3.3-3.3L12 2Zm5 5 3.3 3.3c.9.9.9 2.4 0 3.3L17 17l-3.3-3.3 1.7-1.7-1.7-1.7L17 7Zm-10 0 3.3 3.3L8.6 12l1.7 1.7L7 17l-3.3-3.3c-.9-.9-.9-2.4 0-3.3L7 7Zm5 8.4 3.3 3.3L12 22l-3.3-3.3 3.3-3.3Z"/></svg>Pix</span><span><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="2" y="5" width="20" height="14" rx="2" fill="none" stroke="#edcf64" stroke-width="2"/><path d="M2 9h20" stroke="#edcf64" stroke-width="2"/></svg>Cartão de crédito</span></div><a class="cta" href="https://pay.cakto.com.br/3a7iyiz_1036604" target="_blank" rel="noopener" aria-label="Comprar as apostilas no checkout seguro">QUERO MINHAS APOSTILAS</a><div class="guarantee">Compra protegida • Acesso digital • 7 dias de garantia</div></div></div></section>
+  </main>
+
+  <footer><div class="wrap footer-row"><b>SENTINELA CONCURSOS</b><span>© 2026 — Biblioteca Sentinela</span><a href="https://wa.me/5512991310195" target="_blank" rel="noopener">Falar no WhatsApp</a></div></footer>
+  <div class="mobile-cta"><a class="cta" href="#oferta">QUERO MINHAS APOSTILAS</a></div>
+</body>
+</html>
