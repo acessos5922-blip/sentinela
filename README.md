@@ -1,3 +1,1 @@
-# Sentinela Concursos
-
-Assets públicos utilizados pelo site oficial.
+Biblioteca Sentinela — site e ativos oficiais.
