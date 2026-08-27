@@ -1,0 +1,1 @@
+{"version":2,"builds":[{"src":"index.html","use":"@vercel/static"},{"src":"assets/**","use":"@vercel/static"},{"src":"site-assets-final/**","use":"@vercel/static"}],"routes":[{"src":"/assets/(.*)","dest":"/assets/$1"},{"src":"/site-assets-final/(.*)","dest":"/site-assets-final/$1"},{"src":"/(.*)","dest":"/index.html"}]}
